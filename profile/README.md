@@ -1,1 +1,1 @@
-![singularityee.png]()
+![](singularityee.png)
