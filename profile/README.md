@@ -1,1 +1,1 @@
-![](singularityee.png)
+![](/profile/singularityee.png)
